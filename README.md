@@ -1,1 +1,1 @@
-# ai-session-term1
+# AI Session Term 1 UoM
