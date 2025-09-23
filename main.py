@@ -11,5 +11,3 @@ def subs_check(sub, string):
         print("Yes")
     else:
         print("No")
-
-        # SHIT
