@@ -22,10 +22,12 @@ Here is a list of what has been done so far:
 
 1. **First Basic Python Implementation**
    - Just two functions to test the repo
+   - Also moving median function
 
 2. **AI Models**  
    - Regression model
    - Text recognition model
+   - Linear regression model for house price prediction
 
 4. **Project Euler Problems**  
    - Solutions for Problems 1–10 (Python implementations)
