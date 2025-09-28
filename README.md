@@ -33,11 +33,3 @@ Here is a list of what has been done so far:
    - Solutions for Problems 1–10 (Python implementations)
      
 ---
-
-## ⚙️ Requirements
-
-Most code is in **Python 3**.  
-Dependencies are listed in each folder or can be installed using:
-
-```bash
-pip install -r requirements.txt
