@@ -26,8 +26,9 @@ Here is a list of what has been done so far:
 
 2. **AI Models**  
    - Regression model
-   - Text recognition model
+   - Text recognition neural network
    - Linear regression model for house price prediction
+   - Classification model for stress prediction
 
 4. **Project Euler Problems**  
    - Solutions for Problems 1–10 (Python implementations)
