@@ -13,6 +13,7 @@ The repository is organized by topic and coursework:
 - **Projects** – Mini-projects or practical applications of AI concepts.  
 - **Notebooks / Scripts** – Python notebooks and scripts used for experiments.  
 - **Reports / Documentation** – Notes or summaries related to AI sessions.
+- **New_Project** – Template directory for new AI/ML projects with starter files.
 
 ---
 
